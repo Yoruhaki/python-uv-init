@@ -32,7 +32,6 @@ colorama==0.4.6 \
 commitizen==4.8.2 \
     --hash=sha256:4fc73126c7300f715f11b85242550677722c57767b579100e869ccd45143e2c5 \
     --hash=sha256:86cae0bd8e1da889389d828b30a5acb79b62f9290f9274b127ee9d8c189eb16c
-    # via python-uv-init
 decli==0.6.2 \
     --hash=sha256:2fc84106ce9a8f523ed501ca543bdb7e416c064917c12a59ebdc7f311a97b7ed \
     --hash=sha256:36f71eb55fd0093895efb4f416ec32b7f6e00147dda448e3365cf73ceab42d6f
